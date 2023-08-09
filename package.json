@@ -1,0 +1,12 @@
+{
+  "name": "com.srujan.dungeongenerator",
+  "description": "A procedurally generated dungeon painting tool for rapid level prototype",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "displayName": "Dungeon Generator",
+  "author": "Srujan Lokhande",
+  "dependencies":
+  {
+    "com.unity.ai.navigation": "1.1.4"
+  }
+}
