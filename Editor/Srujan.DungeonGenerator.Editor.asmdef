@@ -1,0 +1,18 @@
+{
+    "name": "Srujan.DungeonGenerator.Editor",
+    "rootNamespace": "Srujan.DungeonGenerator.Editor",
+    "references": [
+        "GUID:9d91a39fd29f1cb4d90edfd3d0d79054"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
